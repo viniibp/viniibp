@@ -5,7 +5,7 @@
 <p>Sou um desenvolvedor FullStack 💻</p>
  
 <p align="left"> 
-  Desenvolvedor Full Stack com mais de 4 anos de experiência em tecnologias como Node.js, React, JavaScript, TypeScript, HTML/CSS, MongoDB, REST e AWS.
+  Desenvolvedor Full Stack com mais de 6 anos de experiência em tecnologias como Node.js, React, JavaScript, TypeScript, HTML/CSS, MongoDB, REST e AWS.
 </p>
 
 <img align='right' src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
